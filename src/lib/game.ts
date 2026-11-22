@@ -1,4 +1,4 @@
-import type { Card } from "./generated/prisma/client.js";
+import type { Card } from "../generated/prisma/client.js";
 
 export type PlayReason = "FREE" | "RANK" | "SHIRITORI" | "ALBUM";
 
